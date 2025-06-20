@@ -19,6 +19,10 @@ SQL for data querying
 Logging for traceability
 Git for version control
 
+**Dataset (Download)**
+Due to GitHub file size limits, the full dataset is hosted externally:
+Link to download: https://drive.google.com/drive/folders/1Yx0sGz271qLV7KoZ2jCACF-lWC7HZ9r3?usp=drive_link
+
 **Pipeline Stages**
 Data Ingestion
 Load data from multiple CSV/SQL sources
